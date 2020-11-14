@@ -1,31 +1,17 @@
 public class Main {
     public static void main(String[] args) {
-        String name = "Viny";
-        int age =3;
-        String city = "Moscow";
-        System.out.println("Имя "+name+" Возраст " +age+" Город "+city);
-    }
-}
+        int a = 3;
+        int b = 2;
 
-
-       // Система . из . печать ( " два " );
-
-        Система . из . печать (б);
-
-        Система . из . печать ( " плюс " );
-
-       // Система . из . печать ( " минус " );
-
-        Система . из . печать (а);
-
-       //Система . из . print ( " три " );
-
-        Система . из . печать ( " равно " );
-
-        //Система . из . печать ( " будет " );
-
-        Система . из . печать ( " пять " );
-
-        //Система . из . печать (а + б);
+        //System.out.print("два");
+        System.out.print(b);
+        System.out.print(" плюс ");
+        //System.out.print(" минус ");
+        System.out.print(a);
+        //System.out.print("три");
+        System.out.print(" равно ");
+        //System.out.print(" будет ");
+        //System.out.print("пять");
+        System.out.print(a + b);
     }
 }
